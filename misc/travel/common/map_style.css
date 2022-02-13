@@ -22,11 +22,11 @@ path#frames {
 }
 
 .lived {
-    fill: maroon;
+    fill: green;
 }
 
 .visited {
-    fill: orange;
+    fill: #CC5500;
 }
 
 #map {
