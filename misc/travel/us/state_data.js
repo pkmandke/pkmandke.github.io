@@ -1,33 +1,33 @@
 var states = {
   	CA: {
     	name: "California",
-    	lived: "Dec'19 - Jan'20, Jul'21 - Present",
-    	description: "Visit Samruddhi in SoCal.<br>San Diego, Los Angeles, Pasadena, Irvine, Laguna Hills"
+    	lived: "Winter'19, Jul'21 - Present",
+    	description: "Visit Tai in SoCal.<br>San Diego, Los Angeles, Pasadena, Irvine, Laguna Hills"
   	},
   	DC2: {
     		name: "Washington, District of Columbia",
     		lived: "Aug'19, Dec'19",
-    		description: "Visit Sampanna@Reston.<br>Visit Union Station & Massachussetts Ave."
+    		description: "Visit Sam"
 	},
 	MD: {
 		name: "Maryland",
 		visited: "12/14/2019",
-		description: "Visit Chinmay in College Park.<br>Visit Baltimore (BWI)."
+		description: "Visit Chinmay in College Park"
 	},
 	VA: {
 		name: "Virginia",
-		lived: "2019-Present",
+		lived: "2019-2021",
     		description: "Virginia Tech"
 	},
 	NC: {
 		name: "North Carolina",
-		visited: "6/13/2020",
-		description: "Visit to Smoky Mountains."
+		visited: "June 2020",
+		description: "Smoky Mountains."
 	},
 	TN: {
 		name: "Tennessee",
 		visited: "6/13/2020",
-		description: "Visit to Gatlinburg and Sevierville in TN.<br>Visit to Clingman's Dome and Charlie's Bunion in the Smokies."
+		description: "Visit Gatlinburg, TN.<br>Clingman's Dome and Charlie's Bunion in the Smokies."
 	},
 	FL: {
 		name: "Florida",
@@ -56,12 +56,22 @@ var states = {
 	},
 	NV: {
 		name: "Nevada",
-		visited: "Nov 2021",
-		description: "Road trip - SD to Vegas"
+		visited: "Nov 2021, May 2023",
+		description: "Vegas"
 	},
 	UT: {
 		name: "Utah",
 		visited: "Nov 2021",
 		description: "Zion and Bryce NP"
+	},
+	CO: {
+		name: "Colorado",
+		visited: "Summer'23",
+		description: "Rockys, Black Canyon of the Gunnison, Colorado Springs"
+	},
+	OR: {
+		name: "Oregon",
+		visited: "Summer'22",
+		description: "Crater Lake"
 	},
 };
