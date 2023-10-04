@@ -51,18 +51,23 @@ var states = {
 	},
 	WA: {
 		name: "Washington",
-		visited: "Dec 2021",
+		visited: "Dec'21, July'22",
 		description: "Visit Sam in Seattle"
 	},
 	NV: {
 		name: "Nevada",
 		visited: "Nov 2021, May 2023",
-		description: "Vegas"
+		description: "Vegas, Valley of Fire"
 	},
 	UT: {
 		name: "Utah",
 		visited: "Nov 2021",
 		description: "Zion and Bryce NP"
+	},
+	AZ: {
+		name: "Arizona",
+		visited: "May 2023",
+		description: "Hoover Dam"
 	},
 	CO: {
 		name: "Colorado",
@@ -73,5 +78,10 @@ var states = {
 		name: "Oregon",
 		visited: "Summer'22",
 		description: "Crater Lake"
+	},
+	IL: {
+		name: "Illinois",
+		visited: "September 2023",
+		description: "Visit Sachin Mama near Chicago"
 	},
 };
