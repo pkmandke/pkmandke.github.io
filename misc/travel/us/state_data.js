@@ -84,4 +84,9 @@ var states = {
 		visited: "September 2023",
 		description: "Visit Sachin Mama near Chicago"
 	},
+	TX: {
+		name: "Texas",
+		visited: "NYE 2024",
+		description: "Visit Akib in Austin"
+	},
 };
