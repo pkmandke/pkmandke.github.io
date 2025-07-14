@@ -46,8 +46,8 @@ var states = {
 	},
 	NY: {
 		name: "New York",
-		visited: "June 2020",
-		description: "Road trip - Niagara Falls, NYC"
+		visited: "June 2020, July 2025",
+		description: "Upstate road trip & NYC"
 	},
 	WA: {
 		name: "Washington",
@@ -82,11 +82,26 @@ var states = {
 	IL: {
 		name: "Illinois",
 		visited: "September 2023",
-		description: "Visit Sachin Mama near Chicago"
+		description: "Visit mama near Chicago"
 	},
 	TX: {
 		name: "Texas",
 		visited: "NYE 2024",
-		description: "Visit Akib in Austin"
+		description: "Visit Austin"
+	},
+	NJ: {
+		name: "New Jersey",
+		visited: "July 2025",
+		description: "Hoboken mostly"
+	},
+	CT: {
+		name: "Connecticut",
+		visited: "July 2025",
+		description: "Road trip"
+	},
+	MA: {
+		name: "Massachusetts",
+		visited: "July 2025",
+		description: "Boston"
 	},
 };
